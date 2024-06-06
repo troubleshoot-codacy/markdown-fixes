@@ -6,4 +6,4 @@
 - This needs a fix
 - This one is correct too
 - testing accounts merge
-- foo bar qux
+- foo bar
